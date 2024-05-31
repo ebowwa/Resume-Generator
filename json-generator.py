@@ -73,7 +73,7 @@ def save_json():
         ]
     }
 
-    with open("resume.json", "w") as f:
+    with open("data/resume.json", "w") as f:
         json.dump(json_data, f, indent=4)
 
     print("JSON data saved to resume.json")

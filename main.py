@@ -195,6 +195,6 @@ def load_data(file_name):
     return data
 
 
-data = load_data('resume.json')
+data = load_data('data/resume.json')
 resume_pdf = ResumePDF(data)
 resume_pdf.generate_pdf()
