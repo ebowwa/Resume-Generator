@@ -1,0 +1,49 @@
+{
+    "name": "Elijah Arbee",
+    "contact_info": {
+        "email": "ec.arbee1@gmail.com",
+        "phone": "(510) 946-9214",
+        "linkedin": "https://www.linkedin.com/in/elijah-arbee/"
+    },
+    "summary": "Innovative and self-motivated technologist with a rich blend of hands on experience in AI, machine learning, and sales. Fiercely independent thinker committed to democratizing knowledge and technology. Brings a unique perspective to problem-solving and innovation shaped by a diverse background and a deep philosophical understanding of technology's role in society. Demonstrates exceptional ability in leveraging technology for real-world applications underscored by a passion for continuous learning and community engagement.",
+    "experiences": [
+        {
+            "title": "Operator",
+            "company": "Autonomy Solutions",
+            "location": "",
+            "dates": "Nov. 2021 - 2023",
+            "description": "Initiated and led a solar sales dealership executing door-to-door sales strategies to promote solar installations and energy solutions. Forged and maintained strategic partnerships with multiple EPC firms effectively communicating the value proposition of solar projects. Negotiated and facilitated a suite of financial products tailored to solar energy procurement driving business growth and customer satisfaction. Achieved a significant milestone of $2 million in secured contracts through personalized sales techniques and comprehensive client education."
+        },
+        {
+            "title": "Outside Sales Manager",
+            "company": "All1 Marketing",
+            "location": "",
+            "dates": "Nov. 2020 - Oct. 2021",
+            "description": "Spearheaded door-to-door sales initiatives blending traditional techniques with modern insights. Cultivated a team-oriented environment empowering sales representatives through mentorship and collaborative strategies. Instrumental in driving revenue growth showcasing a nuanced understanding of market dynamics and consumer behavior."
+        },
+        {
+            "title": "Hospitality Specialist",
+            "company": "Hospitality Industry",
+            "location": "",
+            "dates": "2017 - 2020",
+            "description": "Performed various roles including Catering Serving, Food Runner, and Busser showcasing versatility and the ability to quickly adapt to different operational needs. Thrived in multifaceted roles within a dynamic industry developing transferable skills in customer service, operations, and crisis management. Ensured exemplary service delivery in adherence to stringent health and safety protocols mirroring the meticulousness required in tech environments. Fostered a collaborative ethos in high-pressure settings honing interpersonal skills and the ability to lead diverse teams towards common goals."
+        }
+    ],
+    "skills": {
+        "sales_and_marketing_strategy": "Exceptional ability in full-cycle sales operations from lead generation to closing deals. Adept at identifying market trends and crafting strategies that resonate with diverse customer bases.",
+        "problem_solving_and_analytical_thinking": "Exhibits a keen ability to approach complex challenges with innovative solutions. Utilizes a blend of technical knowledge and creative thinking to overcome obstacles.",
+        "strategic_communication_and_networking": "Skilled in articulating complex technical concepts in understandable terms. Active in tech communities demonstrating strong networking and collaborative skills.",
+        "hardware_integration_and_iot_solutions": "Hands-on experience with single-board computers and GSM modules showcasing skills in building and deploying IoT solutions. Capable of integrating software and hardware to create innovative tech solutions.",
+        "programming_and_machine_learning": "Experienced in Python, TypeScript, Next.js 14 App Router, Three.js, Web Scraping, Web Development, Serial Ports, Machine Learning with Word2Vec & LLMs."
+    },
+    "education": [
+        {
+            "institution": "San Francisco State University",
+            "degree": "Political Science"
+        },
+        {
+            "institution": "Buildspace",
+            "description": "Engaged in hands-on development of GSM hardware solutions, blending technological expertise with practical application."
+        }
+    ]
+}

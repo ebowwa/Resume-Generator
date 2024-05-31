@@ -1,0 +1,1 @@
+Figma removed dev mode, so i build this, simple resume generator with white text for LLM prompt injection
