@@ -9,7 +9,7 @@ This is a simple resume generator tool that was created in response to Figma's d
 - **Downloadable Output**: Once the resume is created, users can download it in a high-quality format for printing or sharing.
 
 ## Getting Started
-To use the Resume Generator, simply edit the json file for your information then copy this command into the cli `pip install -r requirements.txt && python main.py`
+To use the Resume Generator, simply edit the json file for your information then copy this command into the cli `pip install -r requirements.txt && python json-generator.py` add in your info, THEN `python main.py`
 
 ## Contributing
 If you would like to contribute to the development of the Resume Generator, please feel free to submit a pull request or open an issue on the [GitHub repository](https://github.com/ebowwa/Resume-Generator).
