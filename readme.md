@@ -2,6 +2,8 @@
 
 ## Overview
 This is a simple resume generator tool that was created in response to Figma's decision to remove the dev mode feature for free users. The tool allows users to generate a clean and professional-looking resume without the need for advanced design skills.
+
+
 <img width="428" alt="Screenshot 2024-06-01 at 2 05 49 PM" src="https://github.com/ebowwa/Resume-Generator/assets/81942069/47fab98b-67dc-4cfd-ba92-bd5af1a928f2">
 
 ## Features
