@@ -1,4 +1,4 @@
-from resume_generator import ResumePDF, load_data  # Corrected import statement
+from core.resume_generator import ResumePDF, load_data  # Corrected import statement
 
 # Load the resume data from a JSON file
 data = load_data('data/resume.json')
